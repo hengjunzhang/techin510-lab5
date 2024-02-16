@@ -1,0 +1,5 @@
+DB_USER=hengjun
+DB_PASSWORD=Jun#1210
+DB_HOST=gix510.postgres.database.azure.com
+DB_PORT=5432
+DB_NAME=postgres
