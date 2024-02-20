@@ -6,6 +6,3 @@ sqlalchemy
 streamlit
 pandas
 altair
-db
-psycopg2
-dotenv 
